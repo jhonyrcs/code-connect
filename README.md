@@ -5,7 +5,7 @@
     <img alt="Static Badge" src="https://img.shields.io/badge/react-Skill?style=for-the-badge&logo=react&logoColor=black&color=cyan">
 <duv/>
 
-# CodeConnect
+# 💻 CodeConnect
 
 Projeto de uma rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX da plataforma Alura.
 
@@ -28,7 +28,7 @@ As técnicas e tecnologias utilizadas pra isso são:
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o projeto aqui](https://vercel) ou realizar o dowload para acesso local.
+Você pode [acessar o projeto aqui](https://jhony-code-connect.vercel.app/) ou realizar o dowload para acesso local.
 
 ## 🎨 Figma
 
@@ -43,3 +43,7 @@ Após realizar o download do projeto, você pode abrir com o Visual Studio Code.
 - Por fim clique em OK
 
 Você pode abrir diretamente o arquivo index.html no seu navegador ou usar uma extensão como o ``Live Server``.
+
+## 📁 Licença
+
+- Licença [MIT](https://github.com/jhonyrcs/code-connect/blob/master/LICENSE)

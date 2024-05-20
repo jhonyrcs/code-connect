@@ -2,12 +2,16 @@ function PaginaDeCadastro() {
     const [nome, setNome] = React.useState('')
     const [email, setEmail] = React.useState('');
     const [senha, setSenha] = React.useState('');
+
+    const handleSubmit = (event) => {
+        event.preventDefault()
+    }
     
     return (
         <div className='container-login'>
             <img src='./img/imagem-cadastro.png' alt='Uma mulher negra de cabelos crespos usando óculos e mexendo no computador, também há o logo da CodeConnect' />
             <section>
-                <form>
+                <form onSubmit={handleSubmit}>
                     <Titulo>Cadastro</Titulo>
                     <Subtitulo>Olá! Preencha seus dados.</Subtitulo>
                     <CampoDeDigitacao 

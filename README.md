@@ -1,10 +1,17 @@
+<div>
+    <img alt="Static Badge" src="https://img.shields.io/badge/html5-Skill?style=for-the-badge&logo=html5&logoColor=white&color=darkorange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/css3-Skill?style=for-the-badge&logo=css3&logoColor=white&color=mediumblue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/javascript-Skill?style=for-the-badge&logo=javascript&logoColor=black&color=gold">
+    <img alt="Static Badge" src="https://img.shields.io/badge/react-Skill?style=for-the-badge&logo=react&logoColor=black&color=cyan">
+<duv/>
+
 # CodeConnect
 
 Projeto de uma rede social para pessoas desenvolvedoras chamada CodeConnect para o curso de React: componentes e JSX da plataforma Alura.
 
 ## 🔨 Funcionalidades do projeto
 
-Nesse projeto foram desenvolvidas as páginas de login e cadastro de novos usuários da CodeConnect, contendo uma imagem, um formulário de e-mail e senha com títulos e textos, um botão para entrar na aplicação, links para lembrar senha ou cadastrar reutilizandos components do React.
+Nesse projeto foram desenvolvidas as páginas de login e cadastro de novos usuários da CodeConnect, contendo uma imagem, campos de formulários de e-mail, senha e nome com títulos e textos, botões para entrar na aplicação, links para lembrar senha ou cadastrar um novo usuário, reutilizando components do React.
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
